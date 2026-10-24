@@ -4,9 +4,25 @@ A native Android application for managing warehouse inventory through a clear, t
 
 ## Application Preview
 
-![Inventory management dashboard displaying stock levels and item controls](inventory-dashboard.png)
-
-The inventory dashboard provides searchable item records, clear stock-status indicators, quantity controls, and direct access to editing and deletion features.
+<table>
+  <tr>
+    <td align="center">
+      <img src="login-screen.png" alt="Stockroom login and account creation screen" width="260"><br>
+      <strong>Secure Access</strong><br>
+      Users can log in or create an account.
+    </td>
+    <td align="center">
+      <img src="inventory-dashboard.png" alt="Inventory dashboard with searchable item cards and quantity controls" width="260"><br>
+      <strong>Inventory Management</strong><br>
+      Users can search, add, edit, delete, and adjust inventory.
+    </td>
+    <td align="center">
+      <img src="sms-stock-alert.png" alt="SMS notification sent when an inventory item reaches zero" width="260"><br>
+      <strong>Zero-Stock Alerts</strong><br>
+      An SMS alert is sent when an item reaches zero quantity.
+    </td>
+  </tr>
+</table>
 
 ## Project Overview
 
