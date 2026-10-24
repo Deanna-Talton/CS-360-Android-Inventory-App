@@ -39,7 +39,6 @@ A completed version of the Android Studio project is available here:
 
 [Download the completed project](InventoryApp.zip)
 
-> If your uploaded ZIP has a different filename, update the filename in the link above so it matches exactly.
 
 ## User-Centered Interface Design
 
