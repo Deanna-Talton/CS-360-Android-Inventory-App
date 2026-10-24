@@ -2,6 +2,12 @@
 
 A native Android application for managing warehouse inventory through a clear, task-focused mobile interface. The app combines account authentication, persistent SQLite storage, inventory management, stock-level controls, and optional SMS alerts in a cohesive workflow.
 
+## Application Preview
+
+![Inventory management dashboard displaying stock levels and item controls](inventory-dashboard.png)
+
+The inventory dashboard provides searchable item records, clear stock-status indicators, quantity controls, and direct access to editing and deletion features.
+
 ## Project Overview
 
 The goal of this application was to provide warehouse personnel with a reliable way to monitor inventory from a mobile device. Users needed to securely access the app, view current inventory, add and edit products, remove outdated records, adjust quantities, and receive a notification when an item reached zero stock.
